@@ -5,11 +5,14 @@
 ## Login   <damien.laurent@epitech.eu@epitech.eu>
 ##
 ## Started on  Wed Feb  8 14:38:50 2017 Damien Laurent
-## Last update Wed Apr  5 19:52:26 2017 Damien Laurent
+## Last update Thu Apr  6 01:56:43 2017 John Doe
 ##
 SRCS	=	main.c			\
-				my_init_window.c	\
-				move_player.c
+		my_init_window.c	\
+		move_player.c		\
+		check.c			\
+		draw_info.c	\
+		ia.c
 .SILENT:
 
 OBJ	=	$(SRCS:.c=.o)
