@@ -37,6 +37,7 @@ int       is_on_ia_barr(sfVector2f balle, sfVector2f ia)
   return (1);
 }
 
+
 void         rebondir(sfVector2f *balle, sfVector2f *balle_dir, sfVector2f *player, sfVector2f *ia, t_score *score)
 {
   //gauche
