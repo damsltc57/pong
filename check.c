@@ -1,7 +1,7 @@
 /*
 ** check.c for check.c in /home/dams/perso/pong/
 **
-** Made by John Doe
+** Made by Damien Laurent
 ** Login   <login_x@epitech.eu>
 **
 ** Started on  Wed Apr  5 21:07:14 2017 John Doe
